@@ -19,10 +19,10 @@ Traffic VAC (Vehicle Alert and Control) is an Arduino-based system designed to d
 ## 🔌 Circuit Diagram
 
 
-  IR Sensor --- D2 (interrupt)
-  Red LED   --- D5
-  Blue LED  --- D6
-  Green LED --- D7
+  IR Sensor --- D2 (interrupt)\n
+  Red LED   --- D5\n
+  Blue LED  --- D6\n
+  Green LED --- D7\n
   Buzzer    --- D6
 
 
